@@ -1,5 +1,11 @@
 <h1 align="center">Hello, I'm Lucas. 🤠</h1>
 <h3 align="center">A Full Stack engineer from Florianópolis, currently in Barcelona</h3>
+<h4>Proficient at javaScript/TypeScript, Node, koa,express, SQL, Mongo, websockets, React, NextJs and Vue. Started coding 4 yeas ago, in 2022 oversaw a team of 6 programmers in the development of a full stack app.
+
+Fervid about intense and challenging environments. The need to adapt, as well as perform under pressure brings out the best in people. Working with a great team to overcome everyday assignments is one of the best parts of software development.
+
+My ambition in life is to push my mind and body as far as they'll go, and see where I end up. Immersing oneself in an environment that promotes growth is the best way to achieve it. 
+Going on runs together with giving it all at the gym, are the best ways to finish my day.<h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasoliveiralucas&label=Profile%20views&color=0e75b6&style=flat" alt="lucasoliveiralucas" /> </p>
 
