@@ -1,6 +1,6 @@
 <h1>Hello, I'm Lucas. 🤠</h1>
 <h3 align="center">A Full Stack engineer from Florianópolis, currently in Barcelona</h3>
-<h4>Proficient at javaScript/TypeScript, Node, koa,express, SQL, Mongo, websockets, React, NextJs and Vue. Started coding 4 yeas ago, in 2022 oversaw a team of 6 programmers in the development of a full stack app.
+<h4>Proficient at javaScript/TypeScript, Node, koa,express, SQL, Mongo, websockets, React, NextJs and Vue. Started coding 4 yeas ago, and been in love with it since then.
 
 Fervid about intense and challenging environments. The need to adapt, as well as perform under pressure brings out the best in people. Working with a great team to overcome everyday assignments is one of the best parts of software development.
 
